@@ -1,5 +1,5 @@
 
-### Greetings!
+### Greetings! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,js,css,html,cpp,cs,react,figma,mysql,github,java,idea,nodejs,openstack,vscode&perline=4)](https://skillicons.dev)
@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/mutendisambaza)
